@@ -1,4 +1,4 @@
-﻿# IIIT-Pune's-Timetabling-System
+﻿# ScheduleX-Timetabling-System
 
 ## Timetable Generator Using Genetic Algorithm
 This project is a timetable generator that leverages genetic algorithm to create optimized timetables efficiently. The backend is built with Node.js and MongoDB, while the frontend is built with React.The genetic algorithm is implemented with Python for efficiency purpose and runs on a seperate server.
